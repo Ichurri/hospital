@@ -1,4 +1,5 @@
 import { Header } from "./Header/Header";
+import { AboutDoctors } from "./Doctors/AboutDoctors";
 
 export const Hospital = () => {
   return (
@@ -9,8 +10,7 @@ export const Hospital = () => {
           <h2>Welcome to Las Primas Hospital</h2>
           <p>At Las Primas Hospital, we provide top-notch medical care with a team of highly skilled professionals. Our state-of-the-art facilities and commitment to patient-centered care ensure that you receive the best treatment possible.</p>
         </section>
-        {/* <Doctors /> */}
-        {/* <Technology /> */}
+        <AboutDoctors />
       </main>
     </>
   );
