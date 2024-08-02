@@ -2,7 +2,7 @@ import { Header } from "./Header/Header";
 import { AboutDoctors } from "./Doctors/AboutDoctors";
 import { Technology } from "./Technology/Technology";
 
-export const Hospital = () => {
+export const MainPage = () => {
   return (
     <>
       <Header />

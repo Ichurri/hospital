@@ -1,4 +1,5 @@
 import { Doctor } from "./Doctor";
+import './AboutDoctors.css';
 
 const doctors = [
     {

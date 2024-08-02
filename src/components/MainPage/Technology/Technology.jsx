@@ -1,3 +1,5 @@
+import './Technology.css';
+
 const technologies = [
     {
         title: 'MRI and CT Scanners',

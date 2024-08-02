@@ -1,3 +1,5 @@
+import './Doctor.css'
+
 export const Doctor = ({ name, specialty, imgSrc, description }) => {
     return (
         <>
