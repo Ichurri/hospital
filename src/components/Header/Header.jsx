@@ -14,6 +14,7 @@ export const Header = () => {
 
       <div className="header-right">
         <a className="manage-link" href="#crud-operations">Manage</a>
+        {/* <a className="manage-link" href="#client">Client</a> */}
       </div>
     </header>
   )
