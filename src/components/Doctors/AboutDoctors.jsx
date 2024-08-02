@@ -4,13 +4,13 @@ const doctors = [
     {
         name: 'Dr. John Smith',
         specialty: 'Cardiologist',
-        imgSrc: './src/assets/images/doctor1.jpg',
+        imgSrc: './src/assets/images/doctors/doctor1.jpg',
         description: 'Dr. John Smith has over 20 years of experience in cardiology and specializes in minimally invasive heart procedures.',
     },
     {
         name: 'Dr. Emily Johnson',
         specialty: 'Neurologist',
-        imgSrc: './src/assets/images/doctor2.jpg',
+        imgSrc: './src/assets/images/doctors/doctor2.jpg',
         description: 'Dr. Emily Johnson is a renowned neurologist with expertise in treating complex neurological disorders and conducting groundbreaking research.',
     },
 ];
