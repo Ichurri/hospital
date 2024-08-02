@@ -1,7 +1,9 @@
+import { Hospital } from "./components/Hospital"
+
 export const App = () => {
   return (
     <>
-      <div>Hospital</div>
+      <Hospital/>
     </>
   )
 }

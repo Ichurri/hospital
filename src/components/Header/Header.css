@@ -1,0 +1,46 @@
+.header {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: #ffffff;
+    border-bottom: 2px solid #ccc;
+    position: relative;
+}
+
+.header-left {
+    position: absolute;
+    left: 20px;
+}
+
+.header-center {
+    flex: 1;
+    text-align: center;
+}
+
+.header-right {
+    position: absolute;
+    right: 20px; 
+}
+
+.logo {
+    max-width: 200px;
+    height: auto;
+}
+
+.title {
+    font-size: 24px;
+    color: #333;
+}
+
+.manage-link {
+    padding: 10px 20px;
+    background-color: #2d8b7e;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.manage-link:hover {
+    background-color: #0056b3;
+}
